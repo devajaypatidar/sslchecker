@@ -1,0 +1,19 @@
+# Next.js
+.next/
+out/
+build/
+
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*

@@ -1,0 +1,17 @@
+{
+    "name": "ssl-checker-backend",
+    "version": "1.0.0",
+    "description": "Backend for SSL Certificate Checker",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "axios": "^1.7.7",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "https": "1.0.0",
+        "node-cache": "^5.1.2",
+        "tls": "0.0.1"
+    }
+}
